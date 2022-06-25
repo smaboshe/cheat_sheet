@@ -1,0 +1,6 @@
+[book]
+authors = ["Silumesii Maboshe"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Cheet Sheet"
