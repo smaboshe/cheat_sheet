@@ -22,7 +22,7 @@ Ref: <https://formulae.brew.sh/formula/git>
 |`git commit --amend --no-edit` | |
 |`git commit --amend` | |
 |`git diff --cached` | |
-|`git help <alias>` | |
+|`git help <command>` | |
 |`git log --grep -E -i <search term>` | |
 |`git log --oneline -- <filename>` | |
 |`git log --oneline --decorate --graph --all` | |
@@ -57,4 +57,6 @@ Ref: <https://formulae.brew.sh/formula/git>
 - [Practical Git: Show who changed a line last with git blame](https://egghead.io/lessons/tools-practical-git-show-who-changed-a-line-last-with-git-blame)
 - [Rewriting history](https://www.atlassian.com/git/tutorials/rewriting-history)
 - [What is Git Blame?](https://youtu.be/UxUHyJf6Aj0)
+- <https://forum.upcase.com/>
 - <https://git-scm.com/doc>
+- <https://gitready.com>
