@@ -10,8 +10,11 @@
 - [git](tools/git.md)
 - [heroku](tools/heroku.md)
 - [rails](tools/rails.md)
+- [rspec](tools/rspec.md)
 - [subl](tools/subl.md)
+- [tree](tools/tree.md)
 - [zsh](tools/zsh.md)
 
 # Platforms
+
 - [CircleCI](platforms/circleci.md)
