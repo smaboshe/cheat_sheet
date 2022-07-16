@@ -1,6 +1,6 @@
 # git
 
-https://git-scm.com/
+<https://git-scm.com>
 
 ## Installation Resources
 
@@ -10,7 +10,7 @@ https://git-scm.com/
 brew install git
 ```
 
-Ref: https://formulae.brew.sh/formula/git
+Ref: <https://formulae.brew.sh/formula/git>
 
 ## Useful Commands
 
@@ -55,4 +55,4 @@ Ref: https://formulae.brew.sh/formula/git
 - [Practical Git: Show who changed a line last with git blame](https://egghead.io/lessons/tools-practical-git-show-who-changed-a-line-last-with-git-blame)
 - [Rewriting history](https://www.atlassian.com/git/tutorials/rewriting-history)
 - [What is Git Blame?](https://youtu.be/UxUHyJf6Aj0)
-- https://git-scm.com/doc
+- <https://git-scm.com/doc>
