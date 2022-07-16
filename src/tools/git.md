@@ -48,7 +48,9 @@ Ref: <https://formulae.brew.sh/formula/git>
 
 ## Useful Resources
 
+- [5 Useful Tips For A Better Commit Message](https://thoughtbot.com/blog/5-useful-tips-for-a-better-commit-message)
 - [Combining Git commits with squash](https://youtu.be/V5KrD7CmO4o)
+- [Deliberate Git](https://vimeo.com/72762735)
 - [How can I undo the last commit?](https://www.git-tower.com/learn/git/faq/undo-last-commit)
 - [How to Use git blame](https://linuxhint.com/git_blame/)
 - [Mastering Git](https://thoughtbot.com/upcase/mastering-git)
