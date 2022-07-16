@@ -12,6 +12,7 @@
 - [rails](tools/rails.md)
 - [rspec](tools/rspec.md)
 - [subl](tools/subl.md)
+- [tmux](tools/tmux.md)
 - [tree](tools/tree.md)
 - [zsh](tools/zsh.md)
 
