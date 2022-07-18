@@ -11,6 +11,7 @@
 - [heroku](tools/heroku.md)
 - [rails](tools/rails.md)
 - [rspec](tools/rspec.md)
+- [standardrb](tools/standardrb.md)
 - [subl](tools/subl.md)
 - [tmux](tools/tmux.md)
 - [tree](tools/tree.md)
