@@ -18,6 +18,7 @@ Ref: <https://formulae.brew.sh/formula/git>
 |---------|-------|
 |`git add --patch` | |
 |`git blame <filename>` | |
+|`git branch -m new-branch-name` | Rename the current branch to `new-branch-name` |
 |`git cherry-pick <start-point>..<end-point>` | |
 |`git commit --amend --no-edit` | |
 |`git commit --amend` | |
@@ -51,6 +52,7 @@ Ref: <https://formulae.brew.sh/formula/git>
 - [5 Useful Tips For A Better Commit Message](https://thoughtbot.com/blog/5-useful-tips-for-a-better-commit-message)
 - [Combining Git commits with squash](https://youtu.be/V5KrD7CmO4o)
 - [Deliberate Git](https://vimeo.com/72762735)
+- [Git Rename Branch – How to Change a Local Branch Name](https://www.freecodecamp.org/news/git-rename-branch-how-to-change-a-local-branch-name/)
 - [How can I undo the last commit?](https://www.git-tower.com/learn/git/faq/undo-last-commit)
 - [How to Use git blame](https://linuxhint.com/git_blame/)
 - [Mastering Git](https://thoughtbot.com/upcase/mastering-git)
