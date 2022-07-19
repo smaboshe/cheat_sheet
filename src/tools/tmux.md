@@ -21,6 +21,7 @@ Ref: <https://formulae.brew.sh/formula/tmux>
 | `tmux list-sessions` | |
 | `tmux ls` | |
 | `tmux new-session -s <session-name>` | |
+| `tmux rename-session -t old_name new_name` | Rename a session |
 | `tmux switch-client -t <session-name>` | |
 | `tmux` | |
 
@@ -42,5 +43,6 @@ Ref: <https://formulae.brew.sh/formula/tmux>
 
 - [A Quick and Easy Guide to tmux](https://www.hamvocke.com/blog/a-quick-and-easy-guide-to-tmux/)
 - [Making tmux Pretty and Usable - A Guide to Customizing your tmux.conf](https://www.hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/)
+- [Rename tmux sessions](https://koenwoortman.com/tmux-rename-session/)
 - [tmux](https://thoughtbot.com/upcase/tmux)
 - <https://thoughtbot.com/blog/tags/tmux>
