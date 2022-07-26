@@ -44,5 +44,6 @@ Ref: <https://formulae.brew.sh/formula/tmux>
 - [A Quick and Easy Guide to tmux](https://www.hamvocke.com/blog/a-quick-and-easy-guide-to-tmux/)
 - [Making tmux Pretty and Usable - A Guide to Customizing your tmux.conf](https://www.hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/)
 - [Rename tmux sessions](https://koenwoortman.com/tmux-rename-session/)
+- [Tmux Cheat Sheet & Quick Reference](https://tmuxcheatsheet.com)
 - [tmux](https://thoughtbot.com/upcase/tmux)
 - <https://thoughtbot.com/blog/tags/tmux>
