@@ -23,6 +23,7 @@ Ref: <https://formulae.brew.sh/formula/git>
 |`git commit --amend --no-edit` | |
 |`git commit --amend` | |
 |`git diff --cached` | |
+|`git diff --stat` | |
 |`git help <command>` | |
 |`git log --grep -E -i <search term>` | |
 |`git log --oneline -- <filename>` | |
