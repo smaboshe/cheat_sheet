@@ -17,6 +17,7 @@ Ref: <https://formulae.brew.sh/formula/git>
 | Command | Notes |
 |---------|-------|
 |`git add --patch` | |
+|`git bisect` | |
 |`git blame <filename>` | |
 |`git branch -m new-branch-name` | Rename the current branch to `new-branch-name` |
 |`git cherry-pick <start-point>..<end-point>` | |
@@ -40,6 +41,8 @@ Ref: <https://formulae.brew.sh/formula/git>
 |`git show <hash>` | |
 |`git show` | |
 |`git stash -u` | |
+|`git stash apply n` | |
+|`git stash list` | |
 |`git stash` | |
 |`git status --short` | |
 
