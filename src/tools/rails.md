@@ -1,6 +1,6 @@
 # rails
 
-<https://rubyonrails.org/>
+<https://rubyonrails.org>
 
 ## Installation Resources
 
@@ -14,5 +14,5 @@
 
 ## Useful Resources
 
-- https://api.rubyonrails.org
-- https://guides.rubyonrails.org/
+- <https://api.rubyonrails.org>
+- <https://guides.rubyonrails.org>
