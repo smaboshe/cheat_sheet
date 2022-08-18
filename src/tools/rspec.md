@@ -9,10 +9,10 @@
 
 | Command | Notes |
 |---------|-------|
-|`rails generate factory_bot:model <model-name>` | |
+|`rspec --profile` | Can be used to find the slowest tests in the test suite |
 
 ## Notes
 
 ## Useful Resources
 
--[Factory Bot Tutorial for Beginners](https://youtu.be/ef82mR9Mm8Q)
+- https://youtu.be/1jPZHjmQwCM?t=544

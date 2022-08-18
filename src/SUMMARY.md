@@ -9,8 +9,8 @@
 - [gem](tools/gem.md)
 - [git](tools/git.md)
 - [heroku](tools/heroku.md)
+- [minitest](tools/minitest.md)
 - [rails](tools/rails.md)
-- [rspec](tools/rspec.md)
 - [rspec](tools/rspec.md)
 - [standardrb](tools/standardrb.md)
 - [subl](tools/subl.md)
@@ -21,3 +21,7 @@
 # Platforms
 
 - [CircleCI](platforms/circleci.md)
+
+# Theory
+
+- [Solid Principles](theory/solid-principles.md)
