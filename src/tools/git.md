@@ -32,6 +32,7 @@ Ref: <https://formulae.brew.sh/formula/git>
 |`git log --oneline --decorate` | |
 |`git log --oneline` | |
 |`git log --pretty=format:'%h - %an [%ar] %s'` | |
+|`git log --show-signature` | |
 |`git log -S <string>` | |
 |`git rebase --interactive HEAD~3` | |
 |`git reflog` | |
