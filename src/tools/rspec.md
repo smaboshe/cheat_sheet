@@ -16,4 +16,4 @@
 
 ## Useful Resources
 
-- https://youtu.be/1jPZHjmQwCM?t=544
+- <https://youtu.be/1jPZHjmQwCM?t=544>
