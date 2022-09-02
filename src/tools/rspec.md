@@ -9,6 +9,7 @@
 
 | Command | Notes |
 |---------|-------|
+|`rspec --only-failures` | |
 |`rspec --profile` | Can be used to find the slowest tests in the test suite |
 
 ## Notes
