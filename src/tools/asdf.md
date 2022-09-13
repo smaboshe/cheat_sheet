@@ -1,5 +1,12 @@
 # asdf
 
+
+## Useful Commands
+
+| Command | Notes |
+|---------|-------|
+|`asdf plugin update --all` | |
+
 ## Ruby
 
 | Ruby Version | Install Command | Notes |
