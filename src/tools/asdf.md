@@ -5,7 +5,9 @@
 
 | Command | Notes |
 |---------|-------|
-|`asdf plugin update --all` | |
+| `asdf plugin update --all` | |
+| `asdf uninstall ruby 2.7.5` | |
+
 
 ## Ruby
 
