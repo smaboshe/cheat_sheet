@@ -35,6 +35,7 @@ Ref: <https://formulae.brew.sh/formula/git>
 |`git log --show-signature` | |
 |`git log -S <string>` | |
 |`git rebase --interactive HEAD~3` | |
+|`git rebase --onto` | |
 |`git reflog` | |
 |`git reset --hard HEAD~1` | |
 |`git reset --soft HEAD^` | `^` means the parent (of `HEAD` in this case)|
