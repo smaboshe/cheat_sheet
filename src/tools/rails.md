@@ -10,6 +10,8 @@
 
 | Command | Notes |
 |---------|-------|
+|`rails new myapp --database=postgresql` | |
+|`rails new myapp -T` | |
 |`rails stats` | |
 
 ## Useful Resources
