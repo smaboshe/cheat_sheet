@@ -23,6 +23,7 @@ Ref: <https://formulae.brew.sh/formula/git>
 |`git cherry-pick <start-point>..<end-point>` | |
 |`git commit --amend --no-edit` | |
 |`git commit --amend` | |
+|`git config --global init.defaultBranch <name>` | Set the defaul branch name to `<name>` |
 |`git diff --cached` | |
 |`git diff --stat` | |
 |`git help <command>` | |
@@ -39,6 +40,7 @@ Ref: <https://formulae.brew.sh/formula/git>
 |`git reflog` | |
 |`git reset --hard HEAD~1` | |
 |`git reset --soft HEAD^` | `^` means the parent (of `HEAD` in this case)|
+|`git reset HEAD~` | [Discard the last commit](https://www.oreilly.com/library/view/git-pocket-guide/9781449327507/ch04.html#_discarding_the_last_commit) |
 |`git restore <file>` | |
 |`git show <hash>` | |
 |`git show` | |
