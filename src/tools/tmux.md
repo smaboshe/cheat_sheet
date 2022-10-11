@@ -28,7 +28,8 @@ Ref: <https://formulae.brew.sh/formula/tmux>
 ### Window Management
 
 | Command | Notes |
-|---------|-------|
+|------------|-------|
+| `C-b :new` | Create a new session from inside a session |
 | `C-b "` | Horizontal window split |
 | `C-b %` | Vertical window split |
 | `C-b d` | Detach from the current session |
