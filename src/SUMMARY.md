@@ -12,6 +12,7 @@
 - [kubeadm](tools/kubeadm.md)
 - [kubectl](tools/kubectl.md)
 - [minitest](tools/minitest.md)
+- [postgres](tools/postgres.md)
 - [rails](tools/rails.md)
 - [rspec](tools/rspec.md)
 - [standardrb](tools/standardrb.md)
