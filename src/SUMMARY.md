@@ -25,6 +25,13 @@
 
 - [Godot](game-engines/godot.md)
 
+# Languages
+
+- [React Native](languages/react-native.md)
+- [React](languages/react.md)
+- [Ruby](languages/ruby.md)
+- [TypeScript](languages/typescript.md)
+
 # Platforms
 
 - [CircleCI](platforms/circleci.md)
@@ -32,10 +39,3 @@
 # Theory
 
 - [Solid Principles](theory/solid-principles.md)
-
-# Languages
-
-- [React Native](languages/react-native.md)
-- [React](languages/react.md)
-- [Ruby](languages/ruby.md)
-- [TypeScript](languages/typescript.md)
