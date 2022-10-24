@@ -21,6 +21,10 @@
 - [tree](tools/tree.md)
 - [zsh](tools/zsh.md)
 
+# Game Engines
+
+- [Godot](game-engines/godot.md)
+
 # Platforms
 
 - [CircleCI](platforms/circleci.md)
@@ -29,8 +33,9 @@
 
 - [Solid Principles](theory/solid-principles.md)
 
-# Learning Paths
+# Languages
 
-- [React Native](learning-paths/react-native.md)
-- [React](learning-paths/react.md)
-- [TypeScript](learning-paths/typescript.md)
+- [React Native](languages/react-native.md)
+- [React](languages/react.md)
+- [Ruby](languages/ruby.md)
+- [TypeScript](languages/typescript.md)
