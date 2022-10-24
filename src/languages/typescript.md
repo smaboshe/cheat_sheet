@@ -1,3 +1,4 @@
 # TypeScript
 
-https://www.executeprogram.com/courses
+- [Learn Typescript for free](https://scrimba.com/learn/typescript)
+- https://www.executeprogram.com/courses
