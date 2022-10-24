@@ -27,6 +27,7 @@
 
 # Languages
 
+- [CSS](languages/css.md)
 - [JavaScript](languages/javascript.md)
 - [React Native](languages/react-native.md)
 - [React](languages/react.md)
