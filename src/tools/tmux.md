@@ -34,6 +34,7 @@ Ref: <https://formulae.brew.sh/formula/tmux>
 | `C-b %` | Vertical window split |
 | `C-b d` | Detach from the current session |
 | `C-b L` | Toggle between `tmux` sessions |
+| `C-b space` | Convert horizontal panes into vertical ones |
 
 ## Notes
 
