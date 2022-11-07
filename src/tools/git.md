@@ -47,6 +47,7 @@ Ref: <https://formulae.brew.sh/formula/git>
 |`git stash -u` | |
 |`git stash apply n` | |
 |`git stash list` | |
+|`git stash push -- specific-file.txt` | |
 |`git stash` | |
 |`git status --short` | |
 
