@@ -27,6 +27,7 @@ Ref: <https://formulae.brew.sh/formula/git>
 |`git diff --cached` | |
 |`git diff --stat` | |
 |`git help <command>` | |
+|`git log --author="jelita"` | |
 |`git log --grep -E -i <search term>` | |
 |`git log --oneline -- <filename>` | |
 |`git log --oneline --decorate --graph --all` | |
