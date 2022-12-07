@@ -16,6 +16,7 @@ Ref: <https://formulae.brew.sh/formula/git>
 
 | Command | Notes |
 |---------|-------|
+|`git add --paginate` | |
 |`git add --patch` | |
 |`git bisect` | |
 |`git blame <filename>` | |
