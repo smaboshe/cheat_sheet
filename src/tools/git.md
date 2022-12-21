@@ -21,6 +21,7 @@ Ref: <https://formulae.brew.sh/formula/git>
 |`git bisect` | |
 |`git blame <filename>` | |
 |`git branch -m new-branch-name` | Rename the current branch to `new-branch-name` |
+|`git checkout -` | Switch between your previous and current branch |
 |`git cherry-pick <start-point>..<end-point>` | |
 |`git commit --amend --no-edit` | |
 |`git commit --amend` | |
