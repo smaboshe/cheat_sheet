@@ -46,7 +46,7 @@ Ref: <https://formulae.brew.sh/formula/git>
 |`git reset HEAD~` | [Discard the last commit](https://www.oreilly.com/library/view/git-pocket-guide/9781449327507/ch04.html#_discarding_the_last_commit) |
 |`git restore <file>` | |
 |`git show <hash>` | |
-|`git show` | |
+|`git show` | Show the latest changes |
 |`git stash -u` | |
 |`git stash apply n` | |
 |`git stash list` | |
