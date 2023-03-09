@@ -18,7 +18,7 @@ Ref: <https://formulae.brew.sh/formula/git>
 |---------|-------|
 |`git add --paginate` | |
 |`git add --patch` | |
-|`git bisect` | |
+|`git bisect` | <https://git-scm.com/docs/git-bisect> |
 |`git blame <filename>` | |
 |`git branch -m new-branch-name` | Rename the current branch to `new-branch-name` |
 |`git checkout -` | Switch between your previous and current branch |
