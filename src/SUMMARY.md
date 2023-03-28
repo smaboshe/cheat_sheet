@@ -14,6 +14,7 @@
 - [minitest](tools/minitest.md)
 - [postgres](tools/postgres.md)
 - [rails](tools/rails.md)
+- [redis-cli](tools/redis-cli.md)
 - [rspec](tools/rspec.md)
 - [standardrb](tools/standardrb.md)
 - [subl](tools/subl.md)
