@@ -1,12 +1,13 @@
 # gem
 
-Uninstall all Ruby gems
+<https://rubygems.org/>
 
-```
-gem uninstall -aIx
-```
+## Useful Commands
 
-Ref: https://stackoverflow.com/a/49960935
+| Command | Notes |
+|---------|-------|
+| `gem uninstall -aIx` | Uninstall all Ruby gems |
+| `gem update --system` | |
 
 ## Issues and Hints
 
@@ -16,6 +17,5 @@ Ref: https://stackoverflow.com/a/49960935
 |---------|-------|
 | gem install pg -- --with-pg-config=/opt/homebrew/opt/postgresql@14/bin/pg_config ||
 | gem install pg -- --with-pg-config=~/.asdf/installs/postgres/12.0/bin/pg_config ||
-| gem update --system ||
 
 <https://github.com/asdf-vm/asdf/issues/503#issuecomment-689399643>
