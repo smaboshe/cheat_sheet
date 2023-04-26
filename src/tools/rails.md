@@ -23,6 +23,7 @@ In `group :test`:
 | Command | Notes |
 |---------|-------|
 |`rails new myapp --database=postgresql` | |
+|`rails new myapp --main` | |
 |`rails new myapp -T` | |
 |`rails stats` | |
 
