@@ -20,12 +20,16 @@ In `group :test`:
 
 ## Useful Commands
 
-| Command | Notes |
-|---------|-------|
-|`rails new myapp --database=postgresql` | |
-|`rails new myapp --main` | |
-|`rails new myapp -T` | |
-|`rails stats` | |
+| Command                                 | Notes |
+| --------------------------------------- | ----- |
+| `rails new myapp --database=postgresql` |       |
+| `rails new myapp --main`                |       |
+| `rails new myapp -T`                    |       |
+| `rails stats`                           |       |
+
+| Command          | Notes |
+| ---------------- | ----- |
+| `rake log:clear` |       |
 
 ## Useful Resources
 
