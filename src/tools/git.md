@@ -14,46 +14,47 @@ Ref: <https://formulae.brew.sh/formula/git>
 
 ## Useful Commands
 
-| Command | Notes |
-|---------|-------|
-|`git add --paginate` | |
-|`git add --patch` | |
-|`git bisect` | <https://git-scm.com/docs/git-bisect> |
-|`git blame <filename>` | |
-|`git branch -m new-branch-name` | Rename the current branch to `new-branch-name` |
-|`git checkout -` | Switch between your previous and current branch |
-|`git cherry-pick <start-point>..<end-point>` | |
-|`git commit --amend --no-edit` | |
-|`git commit --amend` | |
-|`git config --global init.defaultBranch <name>` | Set the defaul branch name to `<name>` |
-|`git diff --cached` | |
-|`git diff --stat` | |
-|`git help <command>` | |
-|`git log --author="jelita"` | |
-|`git log --grep -E -i <search term>` | |
-|`git log --oneline -- <filename>` | |
-|`git log --oneline --decorate --graph --all` | |
-|`git log --oneline --decorate` | |
-|`git log --oneline` | |
-|`git log --pretty=format:'%h - %an [%ar] %s'` | |
-|`git log --show-signature` | |
-|`git log -S <string>` | |
-|`git rebase --interactive HEAD~3` | |
-|`git rebase --onto` | |
-|`git reflog` | |
-|`git reset --hard HEAD~1` | |
-|`git reset --soft HEAD^` | `^` means the parent (of `HEAD` in this case)|
-|`git reset HEAD~` | [Discard the last commit](https://www.oreilly.com/library/view/git-pocket-guide/9781449327507/ch04.html#_discarding_the_last_commit) |
-|`git restore <file>` | |
-|`git show <hash>` | |
-|`git show` | Show the latest changes |
-|`git stash -u` | |
-|`git stash apply n` | |
-|`git stash list` | |
-|`git stash push -- specific-file.txt` | |
-|`git stash push -m "my_stash_name"` | |
-|`git stash` | |
-|`git status --short` | |
+| Command                                         | Notes                                                                                                                                |
+| ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| `git add --paginate`                            |                                                                                                                                      |
+| `git add --patch`                               |                                                                                                                                      |
+| `git bisect`                                    | <https://git-scm.com/docs/git-bisect>                                                                                                |
+| `git blame <filename>`                          |                                                                                                                                      |
+| `git branch -m new-branch-name`                 | Rename the current branch to `new-branch-name`                                                                                       |
+| `git checkout -`                                | Switch between your previous and current branch                                                                                      |
+| `git cherry-pick <start-point>..<end-point>`    |                                                                                                                                      |
+| `git clean -fdx`                                | Clean the repo - removes untracked files and folders                                                                                 |
+| `git commit --amend --no-edit`                  |                                                                                                                                      |
+| `git commit --amend`                            |                                                                                                                                      |
+| `git config --global init.defaultBranch <name>` | Set the default branch name to `<name>`                                                                                              |
+| `git diff --cached`                             |                                                                                                                                      |
+| `git diff --stat`                               |                                                                                                                                      |
+| `git help <command>`                            |                                                                                                                                      |
+| `git log --author="jelita"`                     |                                                                                                                                      |
+| `git log --grep -E -i <search term>`            |                                                                                                                                      |
+| `git log --oneline -- <filename>`               |                                                                                                                                      |
+| `git log --oneline --decorate --graph --all`    |                                                                                                                                      |
+| `git log --oneline --decorate`                  |                                                                                                                                      |
+| `git log --oneline`                             |                                                                                                                                      |
+| `git log --pretty=format:'%h - %an [%ar] %s'`   |                                                                                                                                      |
+| `git log --show-signature`                      |                                                                                                                                      |
+| `git log -S <string>`                           |                                                                                                                                      |
+| `git rebase --interactive HEAD~3`               |                                                                                                                                      |
+| `git rebase --onto`                             |                                                                                                                                      |
+| `git reflog`                                    |                                                                                                                                      |
+| `git reset --hard HEAD~1`                       |                                                                                                                                      |
+| `git reset --soft HEAD^`                        | `^` means the parent (of `HEAD` in this case)                                                                                        |
+| `git reset HEAD~`                               | [Discard the last commit](https://www.oreilly.com/library/view/git-pocket-guide/9781449327507/ch04.html#_discarding_the_last_commit) |
+| `git restore <file>`                            |                                                                                                                                      |
+| `git show <hash>`                               |                                                                                                                                      |
+| `git show`                                      | Show the latest changes                                                                                                              |
+| `git stash -u`                                  |                                                                                                                                      |
+| `git stash apply n`                             |                                                                                                                                      |
+| `git stash list`                                |                                                                                                                                      |
+| `git stash push -- specific-file.txt`           |                                                                                                                                      |
+| `git stash push -m "my_stash_name"`             |                                                                                                                                      |
+| `git stash`                                     |                                                                                                                                      |
+| `git status --short`                            |                                                                                                                                      |
 
 ## Notes
 
