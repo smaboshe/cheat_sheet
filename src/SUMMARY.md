@@ -20,6 +20,7 @@
 - [subl](tools/subl.md)
 - [tmux](tools/tmux.md)
 - [tree](tools/tree.md)
+- [watchman](tools/watchman.md)
 - [zsh](tools/zsh.md)
 
 # Game Engines
