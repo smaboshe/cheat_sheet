@@ -21,6 +21,7 @@
 - [tmux](tools/tmux.md)
 - [tree](tools/tree.md)
 - [watchman](tools/watchman.md)
+- [Xcode](tools/xcode.md)
 - [zsh](tools/zsh.md)
 
 # Game Engines
