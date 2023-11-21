@@ -8,6 +8,7 @@
 - [code](tools/code.md)
 - [gem](tools/gem.md)
 - [git](tools/git.md)
+- [gpg](tools/gpg.md)
 - [heroku](tools/heroku.md)
 - [kubeadm](tools/kubeadm.md)
 - [kubectl](tools/kubectl.md)
