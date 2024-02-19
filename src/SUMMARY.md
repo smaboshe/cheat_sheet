@@ -2,7 +2,36 @@
 
 [Introduction](introduction.md)
 
-# Commands
+# Databases
+
+- [MySQL](databases/mysql.md)
+
+# Frameworks
+
+- [React Native](frameworks/react-native.md)
+- [Ruby on Rails](frameworks/ruby-on-rails.md)
+
+# Game Engines
+
+- [Godot](game-engines/godot.md)
+
+# Languages
+
+- [CSS](languages/css.md)
+- [JavaScript](languages/javascript.md)
+- [React](languages/react.md)
+- [Ruby](languages/ruby.md)
+- [TypeScript](languages/typescript.md)
+
+# Platforms
+
+- [CircleCI](platforms/circleci.md)
+
+# Theory
+
+- [Solid Principles](theory/solid-principles.md)
+
+# Tools
 
 - [asdf](tools/asdf.md)
 - [code](tools/code.md)
@@ -24,24 +53,3 @@
 - [watchman](tools/watchman.md)
 - [Xcode](tools/xcode.md)
 - [zsh](tools/zsh.md)
-
-# Game Engines
-
-- [Godot](game-engines/godot.md)
-
-# Languages
-
-- [CSS](languages/css.md)
-- [JavaScript](languages/javascript.md)
-- [React Native](languages/react-native.md)
-- [React](languages/react.md)
-- [Ruby](languages/ruby.md)
-- [TypeScript](languages/typescript.md)
-
-# Platforms
-
-- [CircleCI](platforms/circleci.md)
-
-# Theory
-
-- [Solid Principles](theory/solid-principles.md)
