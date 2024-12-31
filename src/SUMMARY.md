@@ -5,6 +5,7 @@
 # Databases
 
 - [MySQL](databases/mysql.md)
+- [PostgreSQL](databases/postgresql.md)
 
 # Frameworks
 
