@@ -61,6 +61,31 @@ Ref: <https://formulae.brew.sh/formula/git>
 - There is no `git squash` command. A "squash" is really an interactive rebase.
 - Quit `vim` with `:cquit` (or `:cq` for short) to close with an error (non-0) and stop `git` from receiving a commit message (aborting the commit).
 
+###  Merging Strategies
+
+#### Merge
+```
+git checkout your-branch
+git merge main
+```
+
+#### Rebase
+```
+git checkout your-branch
+git rebase main
+```
+
+#### Pull with Rebase
+```
+git pull --rebase origin main
+```
+
+#### Fetch and Merge
+```
+git fetch origin
+git merge origin/main
+```
+
 ## Useful Resources
 
 - [5 Useful Tips For A Better Commit Message](https://thoughtbot.com/blog/5-useful-tips-for-a-better-commit-message)
