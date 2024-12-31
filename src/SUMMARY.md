@@ -50,6 +50,7 @@
 - [kubeadm](tools/kubeadm.md)
 - [kubectl](tools/kubectl.md)
 - [minitest](tools/minitest.md)
+- [opensearch](tools/opensearch.md)
 - [postgres](tools/postgres.md)
 - [rails](tools/rails.md)
 - [redis-cli](tools/redis-cli.md)
