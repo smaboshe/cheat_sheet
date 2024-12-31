@@ -40,6 +40,9 @@
 
 - [asdf](tools/asdf.md)
 - [code](tools/code.md)
+- [docker](tools/docker.md)
+- [elasticsearch](tools/elasticsearch.md)
+- [flightctl](tools/flightctl.md)
 - [gem](tools/gem.md)
 - [git](tools/git.md)
 - [gpg](tools/gpg.md)
