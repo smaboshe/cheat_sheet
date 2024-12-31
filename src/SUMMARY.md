@@ -16,6 +16,10 @@
 
 - [Godot](game-engines/godot.md)
 
+# Graphics
+
+- [Blender](game-engines/blender.md)
+
 # Languages
 
 - [CSS](languages/css.md)
